@@ -59,6 +59,9 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
+![image](https://github.com/mohamedabdelsabor/sanctum_app/assets/40480987/183e9ad5-016e-43b4-acbc-a6bc6b0a3079)
+
+
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
