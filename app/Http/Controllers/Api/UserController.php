@@ -69,7 +69,7 @@ class UserController extends Controller
                     'message'=> 'email and password doesnt match with our record'
                 ], 401);
             }
-            $user = Usr::where("email" , $request->email)->first();
+            $user = User::where("email" , $request->email)->first();
 
             return response()->json([
                 'status' => true,
